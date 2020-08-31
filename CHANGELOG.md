@@ -1,5 +1,23 @@
 # Changelog
 
+### [1.112.1](https://www.github.com/googleapis/java-storage/compare/v1.112.0...v1.112.1) (2020-08-31)
+
+
+### Bug Fixes
+
+* add missing FieldSelector inside BucketField and BlobField ([#484](https://www.github.com/googleapis/java-storage/issues/484)) ([c2aa9cf](https://www.github.com/googleapis/java-storage/commit/c2aa9cf6fb4c7f407cbfce85b338b735ceafe1dc))
+* set IT_SERVICE_ACCOUNT_EMAIL for nightly integration test ([#479](https://www.github.com/googleapis/java-storage/issues/479)) ([23c379e](https://www.github.com/googleapis/java-storage/commit/23c379e4d28e4fb319db047c7d46654d9a8b9a61))
+
+
+### Dependencies
+
+* update kms.version to v0.87.0 ([#489](https://www.github.com/googleapis/java-storage/issues/489)) ([a045d54](https://www.github.com/googleapis/java-storage/commit/a045d5400234595f102a8b8d594539dbfd5f295e))
+
+
+### Documentation
+
+* update link ([#490](https://www.github.com/googleapis/java-storage/issues/490)) ([6cd5dfa](https://www.github.com/googleapis/java-storage/commit/6cd5dface9cc14f2ec6729e5b842bcee91c1ad34))
+
 ## [1.112.0](https://www.github.com/googleapis/java-storage/compare/v1.111.2...v1.112.0) (2020-08-27)
 
 
